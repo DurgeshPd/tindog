@@ -1,2 +1,3 @@
 # tindog
-Click this https://durgeshpd.github.io/tindog/ to view UI
+Project Demo Link:
+https://durgeshpd.github.io/tindog/
